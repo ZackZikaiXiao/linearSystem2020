@@ -4,7 +4,7 @@ clc;clear
 %选择仿真例题号后，将对应题目的待观察变量后的";"去掉，运行即可得到命令行窗口的输出
 %%
 %请输入仿真例题号：
-number = 2;
+number = 1;
 %%
 switch number
     case 1  
